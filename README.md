@@ -4,7 +4,7 @@
 The To-Do List project is a simple web application that allows users to create and manage a list of tasks they need to complete. With a clean and intuitive interface, users can quickly add, edit, and delete tasks, as well as mark tasks as complete. This project is built with JavaScript and is a great example of a basic web application using DOM manipulation and event listeners.
 Open the index.html file in your browser
 
-**1. Adding a task1.Adding a task**
+**1. Adding a task**
 To add a task to the to-do list, simply enter the task description in the input field at the top of the page and press the "Add" button. The task will be added to the list.
 
 **2. Updating a task**
@@ -17,9 +17,9 @@ To mark a task as complete, simply click the checkbox next to the task descripti
 To delete a task, click the "Delete" button next to the task you want to delete. This will remove the task from the to-do list.
 
 **Requirements**
-HTML
-CSS
-Javascript
+-HTML
+-CSS
+-Javascript
 **Files**
 **index.html** : This is the main file that contains the html code for the To-Do List.
 **style.css** : This file contains the styling for the To-Do List.
